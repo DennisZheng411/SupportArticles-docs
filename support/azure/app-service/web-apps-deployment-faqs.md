@@ -48,7 +48,7 @@ If you see this message, it's likely that you're running into a disk quota in th
 
 ## How do I set up continuous deployment for my App Service web app?
 
-You can set up continuous deployment from several resources, including Azure DevOps, OneDrive, GitHub, Bitbucket, Dropbox, and other Git repositories. These options are available in the portal. [Continuous deployment to App Service](/azure/app-service/deploy-continuous-deployment) is a helpful tutorial that explains how to set up continuous deployment.
+You can set up continuous deployment from several resources, including Azure DevOps, GitHub, Bitbucket, Dropbox, and other Git repositories. These options are available in the portal. [Continuous deployment to App Service](/azure/app-service/deploy-continuous-deployment) is a helpful tutorial that explains how to set up continuous deployment.
 
 ## How do I troubleshoot issues with continuous deployment from GitHub and Bitbucket?
 
